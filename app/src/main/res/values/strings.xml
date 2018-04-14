@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Спорт-новости</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Воллейбол</string>
+    <string name="cybersport">Киберспорт</string>
+</resources>
